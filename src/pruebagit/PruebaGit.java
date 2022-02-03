@@ -21,6 +21,7 @@ public class PruebaGit {
         System.out.println("Hola de nuevo");
         
         System.out.println("Adios de nuevo");
+        int x = 2;
     }
     
 }
